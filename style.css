@@ -1,0 +1,188 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+.first{
+    background-color: black;
+    height: 50px;
+    padding: 10px 220px;
+    position: fixed !important;
+    width: 100vw;
+    text-align: center;
+    z-index: 99999;
+    /* display: flex; */
+}
+.first p{
+  display: inline;
+}
+.firstimage{
+    width: 15px;
+}
+li{
+    padding: 17px;
+    display: inline;
+    font-size: 13px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    /* white-space: 100px; */
+}
+.second{
+    background-color: black;
+    text-align: center;
+  }
+  h1{
+    font-size: 60px;
+    color: white;
+  }
+  p{
+    font-size: 30px;
+    color: white;
+  }
+  .second a{
+    color: rgb(62, 107, 231);
+    text-decoration: none;
+    font-size: 20px;
+  }
+  .image{
+   background-color: black;
+   text-align: center;
+  }
+  .img{
+    padding: 20px 0px;
+  }
+  .third{
+    background-color: black;
+    text-align: center;
+  }
+  .third a{
+    color: rgb(62, 107, 231);
+    text-decoration: none;
+    font-size: 20px;
+  }
+  .fourth{
+    background-color: black;
+    text-align: center;
+  }
+  .grey{
+    font-size: 18px;
+    color: grey;
+  }
+  .fourth a{
+    color: rgb(62, 107, 231);
+    text-decoration: none;
+    font-size: 20px;
+  }
+  .fifth{
+    background-image: url(./images/promo_bhm__d8b9z5rlwjgy_small.jpg);
+    width: 700px; 
+    height: 550px; ;
+    margin: 10px;
+    text-align: center;
+  }
+  .imgs{
+    padding: 10px 20px;
+  }
+.sixth{
+    background-image: url(./images/gps-lte__de35dernyje6_og.png) ;
+    width: 700px;
+    height: 550px;
+    margin: 10px;
+    padding: 0px 0px 0px 20px;
+    background-size: 700px  450px ;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+.main{
+    display: flex;
+    align-items: center;
+}
+/* .main p{
+    font size: 15px;
+} */
+.fifth a{
+    color: rgb(62, 107, 231);
+    text-decoration: none;
+    font-size: 20px;
+}
+b{
+    color: white;
+    font-size: 30px;
+}
+.para{
+    font-size: 23px;
+}
+.seventh{
+    /* background-image: url(./images/download.jpg); */
+    background-color: black;
+    width: 655px;
+    height: 550px;
+    margin: 10px;
+    text-align: center;
+    background-repeat: no-repeat;
+}
+.seventh a{
+    color: rgb(62, 107, 231);
+    text-decoration: none;
+    font-size: 20px;
+}
+.eight{
+    background-color: rgb(255, 255, 255);
+    width: 655px;
+    height: 550px;
+    margin: 10px;
+    text-align: center;
+    background-repeat: no-repeat;
+}
+.black{
+    color: black;
+}
+.eight a{
+    color: rgb(62, 107, 231);
+    text-decoration: none;
+    font-size: 20px;
+}
+.nine{
+    background-image: url(./images/promo_ipad__fioegapg12qi_small-removebg-preview.png);
+    background-color: rgb(255, 255, 255);
+    width: 655px;
+    height: 550px;
+    margin: 10px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: 680px 570px ;
+}
+.nine a{
+    color: rgb(62, 107, 231);
+    text-decoration: none;
+    font-size: 20px;
+}
+.size{
+    color: black;
+    font-size: 20px;
+}
+.ten{
+    background-image: url(./images/promo_privacy__cq8nxkz93ca6_small.jpg);
+    width: 655px;
+    height: 550px;
+    margin: 10px;
+    text-align: center;
+}
+#carouselExampleCaptions{
+    width: 80vw;
+    margin: 10px 150px;
+}
+.bottom{
+  color: black;
+}
+.bold{
+  color: black;
+  font-size: 12px;
+}
+.mainbottom{
+  display: flex;
+  justify-content: space-between;
+}
